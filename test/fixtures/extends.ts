@@ -1,7 +1,7 @@
 interface InterfaceOne {
-  propertyOne: string;
+	propertyOne: string;
 }
 
 interface InterfaceTwo extends InterfaceOne {
-  propertyTwo: string;
+	propertyTwo: string;
 }

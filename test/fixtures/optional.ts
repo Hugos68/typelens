@@ -1,3 +1,3 @@
 interface Interface {
-  property?: string;
+	property?: string;
 }

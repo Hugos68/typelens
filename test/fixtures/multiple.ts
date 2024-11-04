@@ -3,5 +3,5 @@ interface InterfaceOne {
 }
 
 interface InterfaceTwo {
-    property: string;
+	property: string;
 }

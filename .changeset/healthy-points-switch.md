@@ -1,0 +1,5 @@
+---
+"typelens": patch
+---
+
+Initial release
